@@ -1,0 +1,101 @@
+# Компиляция
+build/
+out/
+bin/
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Автогенерируемые файлы CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+Testing/
+*.cmake
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Выполняемые файлы
+laba7
+all_tests
+
+# Файлы логов
+*.log
+log.txt
+battle_log.txt
+
+# Временные файлы
+*.tmp
+*.temp
+
+# Файлы операционной системы
+.DS_Store
+Thumbs.db
+
+# Документация
+docs/
+*.pdf
+*.doc
+*.docx
+
+# Резервные копии
+*.bak
+*.backup
+
+# Папки зависимостей
+deps/
+third_party/
+lib/
+include/
+
+# Кэш компилятора
+*.gcno
+*.gcda
+*.ilk
+*.pdb
+*.idb
+*.pch
+
+# Статические и динамические библиотеки
+*.a
+*.so
+*.dylib
+*.dll
+*.lib
+
+# Профилирование
+perf.data
+callgrind.out.*
+
+# Покрытие кода
+coverage/
+*.gcov
+
+# Тестовые данные
+test_data/
+*.test
+*.testdata
+
+# Пользовательские конфигурации
+*.user
+*.suo
+*.sdf
+
+# Системы контроля версий
+.git/
+.gitignore
+.gitmodules
+
+# Дополнительные настройки
+compile_commands.json
+.clangd
+.ccls-cache
