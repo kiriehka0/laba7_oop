@@ -1,4 +1,3 @@
-<img width="918" height="647" alt="изображение" src="https://github.com/user-attachments/assets/44db111d-a08c-4b6b-9903-d1d3aaf43a45" /># laba_oop_2025
 ## Общие сведения:
 **Студентка**: Буторагина Кира Евгеньевна  
 **ВУЗ**: МАИ, кафедра 806  
